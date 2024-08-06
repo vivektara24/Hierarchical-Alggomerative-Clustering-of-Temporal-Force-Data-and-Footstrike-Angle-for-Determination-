@@ -1,1 +1,1 @@
-# Hierarchical-Agglomerative-Clustering-of-Force-Time-Series-Data
+# Hierarchical Alggomerative Clustering of Temporal Force Data and Footstrike Angle for Determination of Footstrike Pattern
